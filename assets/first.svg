@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="first.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70822811"
+     inkscape:cx="414.4145"
+     inkscape:cy="221.67999"
+     inkscape:window-width="1169"
+     inkscape:window-height="760"
+     inkscape:window-x="1997"
+     inkscape:window-y="419"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.803331"
+       id="body"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="70.981133"
+       sodipodi:cy="61.64151"
+       sodipodi:r1="31.445555"
+       sodipodi:r2="15.722781"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 98.213782,77.364287 -27.232649,4e-6 -27.23265,-4e-6 L 57.364804,53.78012 70.981133,30.195955 84.59746,53.780119 Z"
+       inkscape:transform-center-y="-7.8613865"
+       transform="matrix(0.50614219,0,0,1,35.054587,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:1.35873;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.803331"
+       id="limb"
+       width="28.018867"
+       height="4.8566036"
+       x="132.99622"
+       y="45.577358" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.803331"
+       id="head"
+       cx="104.60377"
+       cy="26.524525"
+       r="10.833961" />
+  </g>
+</svg>
