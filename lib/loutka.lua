@@ -39,14 +39,15 @@ function Part.new(image, x, y, angle, scale, originX, originY)
     self.originY = originY or 0.5
     self.multiplier = 1
     self.color = {1, 1, 1, 1}
+    self.name = nil
 
     self.values = {
         x = 0,
         y = 0,
         angle = 0,
         scale = self.scale,
-        ox = self.image.getWidth(self.image) * self.originX,
-        oy = self.image.getHeight(self.image) * self.originY
+        ox = self.image:getWidth() * self.originX,
+        oy = self.image:getHeight() * self.originY
     }
     return self
 end
@@ -60,6 +61,7 @@ function Part:draw()
     love.graphics.setColor(self.color[1], self.color[2], self.color[3], self.color[4])
     love.graphics.draw(self.image, x, y, angle, scale, scale, self.values.ox, self.values.oy)
 end
+
 -- ==== MOTION ====
 
 function Motion.new(amount, parts, duration, repeat_count)
